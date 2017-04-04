@@ -1,6 +1,6 @@
-package com.zzt.blog.controllers;
+package com.zzt.controllers;
 
-import com.zzt.blog.models.Post;
+import com.zzt.models.Post;
 import io.swagger.annotations.*;
 import org.springframework.web.bind.annotation.*;
 

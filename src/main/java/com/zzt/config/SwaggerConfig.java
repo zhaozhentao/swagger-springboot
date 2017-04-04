@@ -1,4 +1,4 @@
-package com.zzt.blog.config;
+package com.zzt.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

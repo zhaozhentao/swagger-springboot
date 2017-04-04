@@ -1,4 +1,4 @@
-package com.zzt.blog.models;
+package com.zzt.models;
 
 /**
  * Created by zhaotao on 2017/4/3.

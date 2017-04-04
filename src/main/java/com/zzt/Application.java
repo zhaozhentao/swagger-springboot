@@ -1,4 +1,4 @@
-package com.zzt.blog;
+package com.zzt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
