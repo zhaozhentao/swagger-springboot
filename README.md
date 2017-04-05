@@ -3,12 +3,14 @@ Swagger Demo
 
 > swagger & restful api
 
-## Installation 
+## Install
     # in Mac OS
-    brew install gradle
+    $ brew install gradle
     
-## Building 
-    gradle bootRun
+## Run
+    $ gradle bootRun
+    
+    $ open http://localhost:8080/swagger-ui.html 
     
 ## ScreenShot
 ![image](./screenshot/screenshot.png)
