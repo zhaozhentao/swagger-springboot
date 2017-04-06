@@ -15,7 +15,7 @@ Swagger Demo
 ## ScreenShot
 ![image](./screenshot/screenshot.png)
 
-## 捐赠
+## 打赏
 
 > 如果觉得我的代码对你有帮助 ↓↓↓ 😬
 
